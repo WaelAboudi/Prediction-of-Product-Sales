@@ -39,3 +39,12 @@ Variable Name	Description
  - There are no duplicate entries in the dataset, simplifying the data-cleaning process.
  - Inconsistent categories, particularly in 'Item_Fat_Content,' are corrected to ensure uniformity.
  - Summary statistics for numerical columns, such as minimum, maximum, and mean, are generated to provide insights for further analysis.
+
+## Project-Part 4
+- we used EDA fundtions to explore our features and plot them against our target ' Item_Outlet_Sales'
+- we found out the following:
+- ***significant relationships*** between our target and 'Item_MRP', 'Location Type', 'Outlet_Type', 'Outlet_Size' and 'Establishment_Year features.
+- ***Moderate Relationships*** between our traget and 'Item_Type', 
+- ***Poor Relationships*** between our target and 'Item_Weight', 'Item_Fat_Content
+- ***The most interesting fact in the data set was the 'Item_Visibility' feature that's behaving the opposite way than expected, i assumed that sales should rise when visibility rises. However the plot showed Sales declining when Visiblity inclines***
+  
